@@ -1,0 +1,286 @@
+html,
+body {
+    background-color: #F2F2F2;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: 'Karla', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    font-style: normal;
+    color: #000;
+}
+
+.c {
+    padding: 0 60px;
+    max-width: 1370px;
+    margin: auto;
+}
+
+.c {
+    padding: 0 60px;
+    margin: auto;
+    max-width: 1370px;
+}
+
+.banner_egls .image{
+    padding-top: 35%;
+}
+
+.egsingle .image::before {
+    content: '';
+    display: block;
+    height: 100vh;
+}
+
+.description p {
+    color: #333;
+    max-width: 700px;
+    font-size: 16px;
+}
+
+.title_25 {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    line-height: 2;
+}
+
+.egsingle .cake_image img {
+    height: auto;
+    width: 500px;
+}
+
+.title_100 {
+    font-size: 50px;
+    line-height: 2.5;
+    font-weight: 600;
+    text-align: center;
+}
+
+.egls_image img {
+    height: auto;
+    width: 500px;
+    margin-top: 30px;
+}
+
+.title {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.banner_egls .title:first-child {
+    padding-top: 0;
+}
+
+.ctry_1 {
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 2.5;
+    text-align: center;
+}
+
+.egls_image {
+    text-align: center;
+}
+
+.title_25 {
+    font-size: 25px;
+    color: #333333;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.col_20 {
+    width: 20%;
+}
+
+.col_80 {
+    width: 80%;
+}
+
+.row {
+    font-size: 0;
+    margin: 0 -20px;
+}
+
+.swiper_career .letter_content {
+    padding: 30px;
+    width: 30%;
+    border: 2px solid #CECECE;
+    border-radius: 15px;
+
+}
+
+.swiper_career .letter {
+    padding-top: 50px;
+}
+
+.swiper_career .lenr_name {
+    color: #404040;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.swiper_career .lenr_dsc {
+    color: #404040;
+    font-size: 18px;
+}
+
+.swiper_career .col {
+    padding: 0 5px;
+}
+
+.swiper_career .description {
+    font-size: 18px;
+    color: black;
+    margin-top: 10px;
+}
+
+.swiper_career img {
+    height: 60px;
+    width: 60px;
+    border-radius: 35px;
+}
+
+.letter_content .col_20 {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.letter_content .col_80 {
+    vertical-align: middle;
+}
+.titles{
+    font-size:40px;
+}
+.col_60{
+    width: 60%;
+    vertical-align: middle;
+}
+.col_40{
+    width: 40%;
+    vertical-align: middle;
+}
+
+.hmenu li {
+    display: inline-block;
+    padding: 0 25px;
+}
+.hmenu li a {
+    display: inline-block;
+    font-size: 20px;
+    color: #000;
+    font-weight: 400;
+    line-height: 1.3;
+    letter-spacing: -0.2px;
+}
+.col{
+    padding: 0 20px;
+    vertical-align: middle;
+}
+.hmenu a:hover{
+    color: #FFB700;
+}
+.tle{
+    font-size: 35px;
+    color: #d45608aa;
+    text-align: center;
+}
+.banner_egls .image{
+    height: 500px;
+}
+
+
+
+.nc_banner .image::before {
+    content: '';
+    display: block;
+    height: 120vh;
+}
+.nc_banner{
+    position: relative;
+}
+.c{
+    max-width: 1920px;
+}
+
+.cont .lvl {
+    background-color: #ec817b;
+    font-size: 50px;
+    color: #000;
+    padding: 5px 25px;
+	border-radius:35px;
+}
+
+.cont .ttle_frst{
+    font-size: 85px;
+    font-weight: 700;
+    display: block;
+    margin: 30px 0;
+}
+.cont .ttle_scnd{
+    font-size: 200px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 50px;
+}
+.field_control{
+    border: 1px solid #000;
+    border-radius: 20px;;
+    font-size: 20px;
+    padding: 20px 80px;
+    color: #202942;
+    text-align: center;
+    display:inline-block;
+}
+.fltr{
+    text-align:center;
+    padding-top: 20px;
+}
+.ct_nam{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.filter_button{
+    font-size: 20px;
+    padding: 10px;
+    background-color: #FEA82F;
+}
+.samp{
+    margin-top: 50px;
+}
+.filter_button:hover {
+    border: 1px solid #FEA82F;
+    background-color: transparent;
+}
+.fd{
+    padding-top: 50px;
+}
+.title_30{
+    font-size: 30px;
+    text-align: center;
+}
+
+.filter-custom-taxonomy-category {
+    text-align: center;
+}
+a.ftr {
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 20px;
+}
+
+.filter-custom-taxonomy-category a:hover{
+    color: hsla(60, 100%, 17%, 0.895);
+}
+.reset_btn{
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 20px;
+}
